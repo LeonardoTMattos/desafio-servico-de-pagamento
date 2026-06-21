@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '35 14 * * 0'
+    - cron: '00 16 * * 0'
 
 jobs:
   testes:
